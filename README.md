@@ -1,1 +1,3 @@
 # Document-Search-Tool
+
+I developed a dictionary data structure to store word counts using advanced implementations like Red-Black Trees, AVL Trees, Hashtables, Skip Lists, or any preferred data structure. Additionally, I implemented a pattern search algorithm capable of locating a pattern within a document, regardless of its position within words. I utilized various algorithms such as tries, hashing like Rabin-Karp Algorithm, or others, ensuring correctness through rigorous testing on evaluation test cases. These projects showcased my proficiency in data structures, algorithms, and problem-solving skills.
